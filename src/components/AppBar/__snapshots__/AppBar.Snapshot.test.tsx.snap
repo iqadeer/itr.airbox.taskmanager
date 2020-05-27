@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should have correct links 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <h6
+        className="MuiTypography-root makeStyles-title-5 MuiTypography-h6 MuiTypography-noWrap"
+      >
+        <a
+          aria-current="page"
+          className="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-link-2 MuiTypography-colorPrimary makeStyles-activeLink-3"
+          href="/"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          style={Object {}}
+        >
+          Airbox Task Manager
+        </a>
+      </h6>
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        <a
+          aria-current={null}
+          className="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-link-2 MuiTypography-colorPrimary"
+          href="/multiple-tasks"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+        >
+          Manage multiple tasks
+        </a>
+        <a
+          aria-current={null}
+          className="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-link-2 MuiTypography-colorPrimary"
+          href="/organisation-tasks"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+        >
+          Manage organisation tasks
+        </a>
+        <a
+          aria-current={null}
+          className="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-link-2 MuiTypography-colorPrimary"
+          href="/individual-tasks"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+        >
+          Manage individual tasks
+        </a>
+      </p>
+    </div>
+  </header>
+</div>
+`;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should have correct text 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthLg"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-h4"
+      >
+        Welcome to Airbox task manager
+      </h4>
+      <h6
+        className="MuiTypography-root MuiTypography-h6"
+      >
+        Choose the links above to manage apropriate tasks
+      </h6>
+    </div>
+  </div>
+</div>
+`;
