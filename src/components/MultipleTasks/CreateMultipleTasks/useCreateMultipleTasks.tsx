@@ -81,7 +81,7 @@ const useCreateMultipleTasks = () => {
         taskSummary: '',
         taskDescription: '',
       });
-      setSnackBar({ message: `Task added to queue: ${e}`, severity: 'success' });
+      setSnackBar({ message: `Task added to queue: `, severity: 'success' });
       setOpenSnackBar(true);
     }
   };
